@@ -2,6 +2,12 @@
 
 ## Background
 
+--Assuming that I am a senior data analyst at the company called Pymaceuticals Inc., I've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured.
+
+The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. The task given by the executive team is to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
+
+
+
 What good is data without a good plot to tell the story?
 
 So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
